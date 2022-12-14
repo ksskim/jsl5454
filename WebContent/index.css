@@ -1,0 +1,71 @@
+*{padding:0; margin:0}
+a{text-decoration:none}
+
+header{
+	background:blue;
+	padding:30px 0;
+	text-align:center;
+}
+h1{color:white;}
+
+.menu{
+	background:pink;
+	padding:20px;
+	text-align:center;
+}
+.menu a{
+	font-size:25px;
+	padding:0 30px;
+}	
+
+section h2{
+	text-align:center;
+	padding:30px;
+}
+section h4{
+	padding:10px;
+}
+
+
+footer{
+	margin-top:30px;
+	background:blue;
+	padding:25px 0;
+	text-align:center;
+}
+
+
+section table{
+	margin:0 auto;
+	width:80%;
+}
+section table th{
+	padding:5px 0;
+}	
+section table td{
+	text-align:center;
+	padding:5px 0;
+}	
+
+.td_left{
+	text-align:left;
+	padding:0 10px;
+}
+
+input{
+	height:20px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
